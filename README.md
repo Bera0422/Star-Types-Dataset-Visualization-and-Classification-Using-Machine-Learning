@@ -1,5 +1,7 @@
 # Star Types Dataset Visualization and Classification Using Machine Learning
 
+**You can access paper [here](StarTypes.pdf)**
+
 **Author**: Ahmed Bera Pay  
 **Course**: CMPE 49F  
 **Professor**: Fatih Alagoz  
